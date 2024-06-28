@@ -11,6 +11,9 @@ This organization serves to provide a centralized place to source C libraries wi
 | libftdi    | [yes ✅](https://github.com/zigify/libftdi-zys.git)   | 🛠️       |
 | libyaml    | [yes ✅](https://github.com/zigify/libyaml-zys.git)   | 🛠️       |
 
+## Adding/Requesting a Libary
+You can open an issue [here](https://github.com/zigify/request) with whatever request you have! This can be as simple as asking for a library to be included or as involved as providing your own build support repo or wrapper.
+
 ## Repository Naming
 
 ### lib*-zys
